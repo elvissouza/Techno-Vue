@@ -36,7 +36,8 @@
 
 ---
 
-<p>Não há muitas funcionalidades complexas, estou aprendendo, creio que há bastante imperfeições nas dimensões, tentei colocar responsivo espero que funcione em todos computadores, mas mesmo assim ao longo dos estudos vou aprimorando as <b>skills</b>. <br/>Caso tenha dicas, books ou artigos para me indicar. Ficarei muito feliz 💓</p>
+There are not many complex features I'm learning, I believe that there are many imperfections in the dimensions I tried to put responsive I hope it works on all computers but even so, throughout the studies, I will improve the <b>skills</b> <br>
+If you have tips, books or articles to refer me. I'll be very happy
 
 
 Demo: [Click Here](https://www.origamid.com/curso/vue-js-completo)
