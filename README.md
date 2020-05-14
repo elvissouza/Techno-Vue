@@ -1,12 +1,11 @@
 
 ## Techno-Vue ✔ Practicing Vue with project responsive. 😅
 
----
+
 ### Home
 
-<img src ="https://github.com/elvissouza/Techno-Vue/blob/master/img/Tablet.gif?raw=true" height= "50%" width= "100%">
+<img src ="https://github.com/elvissouza/Techno-Vue/blob/master/img/Tablet.gif?raw=true" height= "50%" width= "80%">
 
----
 ---
 
 ### MOBILE
@@ -20,4 +19,4 @@ There are not many complex features I'm learning, I believe that there are many 
 If you have tips, books or articles to refer me. I'll be very happy
 
 
-Demo: [Click Here](https://www.origamid.com/curso/vue-js-completo)
+<b>Demo</b>: [Click Here](https://www.origamid.com/curso/vue-js-completo)
