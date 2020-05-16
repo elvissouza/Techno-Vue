@@ -3,6 +3,7 @@
 The project does not have complex functions, I am still learning, if you have criticisms or suggest improvements, have tips, books or articles to refer me, I'll be very happy 💓
 
 
+**Demo: [Click here](https://elvissouza.github.io/Techno-Vue/)**
 
 ### Home
 
@@ -17,4 +18,4 @@ The project does not have complex functions, I am still learning, if you have cr
 
 ---
 
-<b>Demo</b>: [Click Here](https://www.origamid.com/curso/vue-js-completo)
+*Course held [Here](https://www.origamid.com/curso/vue-js-completo)*
